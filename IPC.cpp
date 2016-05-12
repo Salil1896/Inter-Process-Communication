@@ -1,7 +1,5 @@
 /*
-    CS Minor Programming Assignment
     Created by: Salil Mamodiya
-    Roll No   : 120102053
 
 Description: The code first take No. of the node input in tree. After it takes
 Adjacency matrix from the user. Using BFS traversal it calculates the Minimum 
